@@ -1,0 +1,600 @@
+{
+  "targeting_type": "INTEREST",
+  "total_categories": 0,
+  "categories": [
+    {
+      "id": "961238559656",
+      "level": 1,
+      "name": "Arte",
+      "childInterests": [
+        {
+          "id": "909337506117",
+          "level": 2,
+          "name": "Body Art",
+          "childInterests": [
+            {
+              "id": "922203297757",
+              "level": 3,
+              "name": "Tatuaje",
+              "childInterests": [
+                {
+                  "id": "937186514722",
+                  "level": 4,
+                  "name": "Colocación de Tatuajes"
+                },
+                {
+                  "id": "894195461586",
+                  "level": 4,
+                  "name": "Diseños de Tatuaje"
+                }
+              ]
+            },
+            {
+              "id": "907597569023",
+              "level": 3,
+              "name": "Piercing",
+              "childInterests": [
+                {
+                  "id": "912957755707",
+                  "level": 4,
+                  "name": "Piercing Facial"
+                },
+                {
+                  "id": "894912804107",
+                  "level": 4,
+                  "name": "Piercing de Cartílago"
+                },
+                {
+                  "id": "909887896662",
+                  "level": 4,
+                  "name": "Piercing de Nariz"
+                },
+                {
+                  "id": "913855682158",
+                  "level": 4,
+                  "name": "Piercing para el Ombligo"
+                },
+                {
+                  "id": "917719672835",
+                  "level": 4,
+                  "name": "Daith Piercing"
+                },
+                {
+                  "id": "916063251171",
+                  "level": 4,
+                  "name": "Piercing de Oreja"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "947703397050",
+          "level": 2,
+          "name": "Diseño de Pósteres"
+        },
+        {
+          "id": "905860166503",
+          "level": 2,
+          "name": "Fotografía",
+          "childInterests": [
+            {
+              "id": "917526508083",
+              "level": 3,
+              "name": "Temas de Fotografía",
+              "childInterests": [
+                {
+                  "id": "951465807883",
+                  "level": 4,
+                  "name": "Fotografía de Animales",
+                  "childInterests": [
+                    {
+                      "id": "957689872112",
+                      "level": 5,
+                      "name": "Fotografía de Mascotas"
+                    },
+                    {
+                      "id": "922507729669",
+                      "level": 5,
+                      "name": "Fotografía de Vida Silvestre"
+                    }
+                  ]
+                },
+                {
+                  "id": "930792701529",
+                  "level": 4,
+                  "name": "Fotografía de Belleza"
+                },
+                {
+                  "id": "901200238476",
+                  "level": 4,
+                  "name": "Fotografía de Moda"
+                },
+                {
+                  "id": "948555412947",
+                  "level": 4,
+                  "name": "Fotografía Urbana"
+                },
+                {
+                  "id": "941062423970",
+                  "level": 4,
+                  "name": "Fotografía de Paisajes"
+                },
+                {
+                  "id": "902792474069",
+                  "level": 4,
+                  "name": "Fotografía Deportiva"
+                },
+                {
+                  "id": "947060600610",
+                  "level": 4,
+                  "name": "Fotografías de Viajes"
+                },
+                {
+                  "id": "918966368084",
+                  "level": 4,
+                  "name": "Fotografía de Personas",
+                  "childInterests": [
+                    {
+                      "id": "933823938056",
+                      "level": 5,
+                      "name": "Fotografía de Graduación"
+                    },
+                    {
+                      "id": "906490311080",
+                      "level": 5,
+                      "name": "Fotografía de Familia",
+                      "childInterests": [
+                        {
+                          "id": "928145957950",
+                          "level": 6,
+                          "name": "Fotografía de Pareja"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "908868659256",
+                      "level": 5,
+                      "name": "Fotografía de Retratos"
+                    },
+                    {
+                      "id": "955528469316",
+                      "level": 5,
+                      "name": "Fotografía de Amigos"
+                    }
+                  ]
+                },
+                {
+                  "id": "925013907018",
+                  "level": 4,
+                  "name": "Fotografía de Naturaleza Muerta"
+                }
+              ]
+            },
+            {
+              "id": "942646532464",
+              "level": 3,
+              "name": "Tipos de Fotografía"
+            },
+            {
+              "id": "921269927658",
+              "level": 3,
+              "name": "Consejos de Fotografía"
+            },
+            {
+              "id": "939896253341",
+              "level": 3,
+              "name": "Técnicas Fotográficas"
+            }
+          ]
+        },
+        {
+          "id": "946028385883",
+          "level": 2,
+          "name": "Arte Urbano",
+          "childInterests": [
+            {
+              "id": "940912925613",
+              "level": 3,
+              "name": "Artistas de Arte Callejero"
+            }
+          ]
+        },
+        {
+          "id": "953386407299",
+          "level": 2,
+          "name": "Arte en Cristal",
+          "childInterests": [
+            {
+              "id": "913377513782",
+              "level": 3,
+              "name": "Productos de Arte en Vidrio",
+              "childInterests": [
+                {
+                  "id": "942536625243",
+                  "level": 4,
+                  "name": "Vidrio de Color"
+                }
+              ]
+            },
+            {
+              "id": "944887002530",
+              "level": 3,
+              "name": "Empresas y Estudios de Arte en Vidrio"
+            },
+            {
+              "id": "897204398079",
+              "level": 3,
+              "name": "Técnicas de Arte en Vidrio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "925056443165",
+      "level": 1,
+      "name": "Animales",
+      "childInterests": [
+        {
+          "id": "906756939414",
+          "level": 2,
+          "name": "Artrópodos"
+        },
+        {
+          "id": "903972677830",
+          "level": 2,
+          "name": "Artículos para Mascotas y Animales",
+          "childInterests": [
+            {
+              "id": "916882161631",
+              "level": 3,
+              "name": "Adopción de Mascotas"
+            },
+            {
+              "id": "925973167881",
+              "level": 3,
+              "name": "Artículos para Perros",
+              "childInterests": [
+                {
+                  "id": "936770154303",
+                  "level": 4,
+                  "name": "Jaula para Perros"
+                }
+              ]
+            },
+            {
+              "id": "924699090563",
+              "level": 3,
+              "name": "Artículos para Peces"
+            },
+            {
+              "id": "900237230134",
+              "level": 3,
+              "name": "Artículos para Pájaros"
+            },
+            {
+              "id": "899429799057",
+              "level": 3,
+              "name": "Artículos para Gatos"
+            },
+            {
+              "id": "915297693813",
+              "level": 3,
+              "name": "Salud de las Mascotas"
+            }
+          ]
+        },
+        {
+          "id": "933376738173",
+          "level": 2,
+          "name": "Reptiles"
+        },
+        {
+          "id": "925019110188",
+          "level": 2,
+          "name": "Anfibios"
+        },
+        {
+          "id": "952174338649",
+          "level": 2,
+          "name": "Pájaros"
+        },
+        {
+          "id": "900726038026",
+          "level": 2,
+          "name": "Vida Marina"
+        },
+        {
+          "id": "893567714702",
+          "level": 2,
+          "name": "Anélidos"
+        },
+        {
+          "id": "956932523301",
+          "level": 2,
+          "name": "Mamíferos",
+          "childInterests": [
+            {
+              "id": "943263428449",
+              "level": 3,
+              "name": "Perros"
+            },
+            {
+              "id": "955281477100",
+              "level": 3,
+              "name": "Felinos",
+              "childInterests": [
+                {
+                  "id": "958968499253",
+                  "level": 4,
+                  "name": "Gato"
+                }
+              ]
+            },
+            {
+              "id": "899986821817",
+              "level": 3,
+              "name": "Roedores"
+            }
+          ]
+        },
+        {
+          "id": "941927994787",
+          "level": 2,
+          "name": "Moluscos"
+        }
+      ]
+    },
+    {
+      "id": "922134410098",
+      "level": 1,
+      "name": "Educación",
+      "childInterests": [
+        {
+          "id": "953977921048",
+          "level": 2,
+          "name": "Nivel Educativo",
+          "childInterests": [
+            {
+              "id": "925676934738",
+              "level": 3,
+              "name": "Preescolar",
+              "childInterests": [
+                {
+                  "id": "918626613910",
+                  "level": 4,
+                  "name": "Trabajo en Equipo"
+                },
+                {
+                  "id": "946016583889",
+                  "level": 4,
+                  "name": "Alfabeto"
+                },
+                {
+                  "id": "947629152844",
+                  "level": 4,
+                  "name": "Desarrollo Personal"
+                },
+                {
+                  "id": "927053874250",
+                  "level": 4,
+                  "name": "Actividades Sensoriales"
+                },
+                {
+                  "id": "908132054176",
+                  "level": 4,
+                  "name": "Actividades de Fonética"
+                },
+                {
+                  "id": "950588946650",
+                  "level": 4,
+                  "name": "Actividades de Forma"
+                },
+                {
+                  "id": "897512578124",
+                  "level": 4,
+                  "name": "Alfabetización"
+                },
+                {
+                  "id": "936354669094",
+                  "level": 4,
+                  "name": "Libro de Preescolar"
+                },
+                {
+                  "id": "937612139369",
+                  "level": 4,
+                  "name": "Canciones Infantiles"
+                },
+                {
+                  "id": "914926306985",
+                  "level": 4,
+                  "name": "Actividades STEM"
+                },
+                {
+                  "id": "953124943824",
+                  "level": 4,
+                  "name": "Habilidades Sociales"
+                }
+              ]
+            },
+            {
+              "id": "897371132327",
+              "level": 3,
+              "name": "Escuela Primaria",
+              "childInterests": [
+                {
+                  "id": "930709083811",
+                  "level": 4,
+                  "name": "Recursos para Escuela Primaria (Early Elementary Resources)"
+                },
+                {
+                  "id": "943217085181",
+                  "level": 4,
+                  "name": "Recursos para Escuela Primaria (Upper Elementary Resources)"
+                }
+              ]
+            },
+            {
+              "id": "897586130155",
+              "level": 3,
+              "name": "Instituto",
+              "childInterests": [
+                {
+                  "id": "949657101298",
+                  "level": 4,
+                  "name": "Último Año"
+                },
+                {
+                  "id": "911949220271",
+                  "level": 4,
+                  "name": "Penúltimo Año"
+                },
+                {
+                  "id": "895842721250",
+                  "level": 4,
+                  "name": "Segundo Año"
+                },
+                {
+                  "id": "946041040524",
+                  "level": 4,
+                  "name": "Preparación para la Universidad"
+                },
+                {
+                  "id": "961290808100",
+                  "level": 4,
+                  "name": "Primer Año de Estudios"
+                }
+              ]
+            },
+            {
+              "id": "941684378001",
+              "level": 3,
+              "name": "Escuela Secundaria"
+            },
+            {
+              "id": "900089680407",
+              "level": 3,
+              "name": "Universidad",
+              "childInterests": [
+                {
+                  "id": "932045313594",
+                  "level": 4,
+                  "name": "Doctorado"
+                },
+                {
+                  "id": "897801878344",
+                  "level": 4,
+                  "name": "Máster"
+                }
+              ]
+            },
+            {
+              "id": "951556139587",
+              "level": 3,
+              "name": "Niveles Educativos en el Reino Unido"
+            }
+          ]
+        },
+        {
+          "id": "958895975672",
+          "level": 2,
+          "name": "Educación en el Hogar"
+        },
+        {
+          "id": "920023336761",
+          "level": 2,
+          "name": "Recursos para Profesores",
+          "childInterests": [
+            {
+              "id": "899445615527",
+              "level": 3,
+              "name": "Actividades Escolares",
+              "childInterests": [
+                {
+                  "id": "948146120370",
+                  "level": 4,
+                  "name": "Anuario"
+                },
+                {
+                  "id": "917484020796",
+                  "level": 4,
+                  "name": "Feria de Ciencias"
+                },
+                {
+                  "id": "956986842182",
+                  "level": 4,
+                  "name": "Desafío STEM para Videojuegos"
+                }
+              ]
+            },
+            {
+              "id": "897115731766",
+              "level": 3,
+              "name": "Consejos de Enseñanza",
+              "childInterests": [
+                {
+                  "id": "922347675701",
+                  "level": 4,
+                  "name": "Gráfico de Fijación"
+                },
+                {
+                  "id": "904881036298",
+                  "level": 4,
+                  "name": "Ideas para la Primera Semana de Colegio"
+                },
+                {
+                  "id": "954833167524",
+                  "level": 4,
+                  "name": "Tablón"
+                },
+                {
+                  "id": "897650972431",
+                  "level": 4,
+                  "name": "Guía de Estudios"
+                }
+              ]
+            },
+            {
+              "id": "912079102235",
+              "level": 3,
+              "name": "Laboratorio"
+            },
+            {
+              "id": "956955823846",
+              "level": 3,
+              "name": "Planificación de las Clases"
+            },
+            {
+              "id": "954665683059",
+              "level": 3,
+              "name": "Gestión del Aula",
+              "childInterests": [
+                {
+                  "id": "907102852923",
+                  "level": 4,
+                  "name": "Decoración para Aulas"
+                },
+                {
+                  "id": "893972522984",
+                  "level": 4,
+                  "name": "Normas de la Clase"
+                },
+                {
+                  "id": "923411702702",
+                  "level": 4,
+                  "name": "Material para Aulas"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source": "Pinterest Ads API - Targeting Options (INTEREST)",
+    "retrieved_at": "2026-11-15T17:36:45.337Z",
+    "note": "Esta es una muestra representativa de las 3 categorías principales (Arte, Animales, Educación). La lista completa tiene 1000+ intereses en 6 niveles jerárquicos con sus IDs únicos. Los IDs son necesarios para targeting en Pinterest Ads."
+  }
+}
